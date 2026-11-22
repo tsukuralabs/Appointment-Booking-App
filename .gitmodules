@@ -1,6 +1,6 @@
 [submodule "appointment-app"]
 	path = appointment-app
-	url = https://github.com
+	url = https://github.com/tsukuralabs/appointment-app
 [submodule "appointment-backend"]
 	path = appointment-backend
-	url = https://github.com
+	url = https://github.com/tsukuralabs/appointment-backend
